@@ -1,6 +1,6 @@
 # MiniBank
 
-![CI](https://github.com/<your-user>/minibank/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Moh4mmadNSZ/MiniBank/actions/workflows/ci.yml/badge.svg)
 
 A small ledger service written in Go: accounts, deposits, withdrawals,
 **atomic transfers** and per-account history, stored in PostgreSQL. It never
